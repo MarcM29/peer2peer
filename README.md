@@ -1,4 +1,4 @@
-# peer2peer
+# Peer 2 peer shared photo service
 
 Authors: Marc McCombe & Jurgen Beu
 
