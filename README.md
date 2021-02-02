@@ -1,3 +1,5 @@
+# *This was a school project from 2020*
+
 # Peer 2 peer shared photo service
 
 Authors: Marc McCombe & Jurgen Beu
