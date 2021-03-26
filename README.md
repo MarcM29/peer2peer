@@ -1,4 +1,4 @@
-# *This was a school project from 2020*
+# *This was a 1 month school project from 2020*
 
 # "Peer 2 peer" shared photo service
 
